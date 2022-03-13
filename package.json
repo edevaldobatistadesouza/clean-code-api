@@ -1,0 +1,23 @@
+{
+  "name": "clean-code-api",
+  "version": "1.0.0",
+  "description": "Aplicação",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edevaldobatistadesouza/clean-code-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edevaldobatistadesouza/clean-code-api/issues"
+  },
+  "homepage": "https://github.com/edevaldobatistadesouza/clean-code-api#readme",
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "standard": "^16.0.4"
+  }
+}
